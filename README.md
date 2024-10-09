@@ -1,3 +1,6 @@
+<!-- markdownlint-disable MD041 -->
+
+
 # kr1
 первый ПУБЛИЧНЫЙ кролик
 aaa
