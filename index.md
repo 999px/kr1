@@ -2,7 +2,7 @@
 layout: default
 ---
 
-text_111<br />
+text_111<br>
 <div id="gallery">
 {% for img in site.static_files %}
   {% if img.path contains './images/' %}
