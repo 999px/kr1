@@ -1,13 +1,9 @@
-<!-- markdownlint-disable MD041 -->
-
-
 # kr1
-первый ПУБЛИЧНЫЙ кролик
-aaa
-fff
-vvv
+первый ПУБЛИЧНЫЙ кролик  
 ![](image1.jpg)
 
 ## 2024-10
 устноавил GitHub Desktop и отредактировал картинку
 
+
+fghgfhgfhgfd
