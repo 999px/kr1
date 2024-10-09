@@ -1,3 +1,5 @@
+theme: minima
+# theme: jekyll-theme-minimal
 
 title: Документация кроликов
 description: Это описание документации, HTML/CSS/PHP и т.д.
