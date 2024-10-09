@@ -3,7 +3,6 @@
 ![](image1.jpg)
 
 ## 2024-10
-устноавил GitHub Desktop и отредактировал картинку
-
-
-fghgfhgfhgfd
+- Я установил GitHub Desktop и отредактировал картинку
+- MS Code не понравился
+- Вернулся обратно на Notepad++
