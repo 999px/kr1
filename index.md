@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style="background-color: #F00">112</div>
+<div style="background-color: #F00">113</div>
 <div id="gallery">
 {% for img in site.static_files %}
   {% if img.path contains 'images/' %}
