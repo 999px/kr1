@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<div style="background-color: #F00">111</div>
+<div style="background-color: #F00">112</div>
 <div id="gallery">
 {% for img in site.static_files %}
   {% if img.path contains 'images/' %}
-    <a href="{{ img.path }}"><img src="{{ img.path }}" width="150"></a>
+    <a href="{{ img.path | relative_url }}"><img src="{{ img.path | relative_url }}" width="150"></a>
   {% endif %}
 {% endfor %}
 </div>
